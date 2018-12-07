@@ -247,8 +247,8 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 };
 
 const char* const SEED_NODES[] = {
-  "127.0.0.1:11897",//local
-  "10.234.150.30:11897",//wifi
-  "172.21.232.241:11999", //eth
+  "138.68.59.219:11897",//seed-1
+  "138.68.55.161:11897",//seed-2
+  "138.68.59.176:11999", //seed-3
 };
 } // CryptoNote
